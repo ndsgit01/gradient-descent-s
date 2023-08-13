@@ -3,7 +3,7 @@
 Contents:
 -
 - gradient_descent.py : An 'over-engineered(modular)' OOP implementation of gradient descent algorithms and its popular variants in python (+ numpy)
-- Visualization.ipynb : Animated visualization of above implemented methods in python (+ matplotlib)
+- Visualization.ipynb : Observing the behaviour of above implemented methods with animated visualizations in python (+ matplotlib)
 
 Algorithms implemented:
 - 
